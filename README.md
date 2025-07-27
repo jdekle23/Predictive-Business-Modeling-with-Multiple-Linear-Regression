@@ -39,3 +39,13 @@ The project follows a three-phase process:
 ## 🚀 How to Run
 
 > This notebook was designed to be viewed in jupyter notebook.
+---
+
+## 🤝 Connect with Me
+
+If you enjoyed this project or want to collaborate, feel free to connect with me:
+
+🔗 [LinkedIn – Jonathan Dekle](https://www.linkedin.com/in/jdekle23)  
+🐙 [GitHub – jdekle23](https://github.com/jdekle23)
+
+Let’s turn data into something meaningful. 🚀
