@@ -38,4 +38,4 @@ The project follows a three-phase process:
 
 ## 🚀 How to Run
 
-> This notebook was designed to be viewed in Google Colab, but can also be run locally with a standard Python data stack.
+> This notebook was designed to be viewed in jupyter notebook.
